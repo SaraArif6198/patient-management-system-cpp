@@ -2,8 +2,6 @@
 
 A simple console-based **Patient Management System** built using **C++ Object-Oriented Programming (OOP)** principles. It allows hospital staff to manage patient records, assign doctors, and perform operations such as admit, discharge, update, and display patient details.
 
-> 📌 This project was developed as part of an **OOP (Object-Oriented Programming)** course assignment.
-
 ## 📦 Features
 
 - ✅ **Admit Patients** with ID, personal info, disease, and assigned doctor  
